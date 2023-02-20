@@ -1,0 +1,8 @@
+/.pytest_cache
+/holdout.csv
+/metrics.json
+/model.pkl
+/prc.json
+/rocauc.json
+/train.csv
+/val.csv
